@@ -11,7 +11,7 @@ let team1 =[];
 var i=0;
 for(let val :players)
 	{
-		team[i]=val;
+		team1[i]=val;
 	    i++;
 	}
 
